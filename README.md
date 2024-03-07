@@ -6,7 +6,7 @@
 - 💬 Outras redes tambem aparecem no meu perfil
 - 📚 Estutando na faculdade UniProjeção
 
-  <div align="center">
+<div align="center">
   <a href="https://github.com/vnimar">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnimar&layout=compact&langs_count=7&theme=tokyonight"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vnimar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,6 @@
   <img align="center" alt="Vini-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Vini-Mobile" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" >
   <img align="center" alt="Vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  
 </div>
     
 ### <h2 align="center">Mídias</h2>
